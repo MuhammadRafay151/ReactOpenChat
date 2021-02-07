@@ -1,2 +1,2 @@
 # ReactOpenChat
- Open chat built using node & react
+ Open chat built using nodejs & react
